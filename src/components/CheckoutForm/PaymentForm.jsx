@@ -64,3 +64,4 @@ const PaymentForm = ({ checkoutToken, nextStep, backStep, shippingData, onCaptur
 };
 
 export default PaymentForm;
+
