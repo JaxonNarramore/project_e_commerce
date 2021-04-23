@@ -1,6 +1,9 @@
 {
   "name": "eccomerce",
   "version": "0.1.0",
+  "engines": {
+    "node": "15.x"
+  },
   "private": true,
   "dependencies": {
     "@chec/commerce.js": "^2.3.0-beta1",
